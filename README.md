@@ -1,4 +1,4 @@
-# the-static-web-challenge-4
+# Nashville Software School: Front-End Challenge
 
 ## Challenge #4
 
